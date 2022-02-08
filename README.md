@@ -1,4 +1,4 @@
-# 2 way SSL with spring boot
+# 2 way SSL/TLS with spring boot
 
 Example client (nt-gateway) and service (nt-ms) code to show how to get 2 way SSL setup with self signed certificate.
 
